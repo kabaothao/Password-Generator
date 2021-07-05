@@ -3,6 +3,7 @@
 > Outline a brief description of your project.
 > Live demo [_here_](https://kabaothao.github.io/Password-Generator/). <!-- If you have the project hosted somewhere, include the link here. -->
 
+
 ## Table of Contents
 
 - [General Info](#general-information)
